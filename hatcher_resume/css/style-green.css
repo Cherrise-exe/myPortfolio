@@ -784,6 +784,10 @@ a:hover {
 
 .work-content {
   padding: 2rem 3% 1rem 4%;
+  .ion-social-github{
+    width: 20%;
+    display: flex;
+  }
 }
 
 .work-content .w-more {
@@ -803,6 +807,7 @@ a:hover {
 
 .work-content .w-like a {
   color: #24b67e;
+
 }
 
 .work-content .w-like .num-like {
@@ -1256,3 +1261,4 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
