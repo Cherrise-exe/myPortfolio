@@ -1,0 +1,24 @@
+                <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+                    <!-- <div class=" col-xl-8 col-lg-7 "><img class="img-fluid mb-3 mb-lg-0" class="img-fluid mb-3 mb-lg-0" src="assets/img/venuePage.jpg" alt="" width="500" height="100" /></div>  -->
+                    <div class="col-xl-8 col-lg-7 align-items-center"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/venuePage.jpg" alt="" width="500" height="100"/></div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="featured-text text-center text-lg-left">
+                            <h4>Venue Page</h4>
+                            <p class="text-black-50 mb-0"> This project was created for a fictional music festival named Barclays Bash. Our team used react libraries to implement a calendar and a countdown timer. We also made the user experience more interactive by including an aerial view of the stadium. We used CSS to make the user interface reminiscent of a night-time concert. </p>
+                            <a class="text-black-50 mb-0" href="https://github.com/jo-kaur/venue_page"> <strong>Link to repo</strong></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <!-- Featured Project Row 2-->
+                    <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+                        <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/budgetApp.jpg" alt=""  width="500" height="100"/></div>
+                        <div class="col-xl-4 col-lg-5">
+                            <div class="featured-text text-center text-lg-left">
+                                <h4>Budget App</h4>
+                                <p class="text-black-50 mb-0"> This project helps an individual create a monthly budget sheet to keep track of their income and spending. Our team used JavaScript to allow users to display and add unlimited income sources and expenses. This app makes the process of saving money easier without stress. </p>
+                                                            
+                                <a class="text-black-50 mb-0" href="https://github.com/jo-kaur/budgetApp"> <strong>Link to repo</strong></a>
+                            </div>
+                    </div>
+                </div>
