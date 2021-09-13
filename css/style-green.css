@@ -10,7 +10,7 @@
 ======================================*/
 
 body {
-  background-color: #116466;
+  background-color: #000000;
   color: white;
 }
 
@@ -784,7 +784,7 @@ a:hover {
 
 .work-content {
   padding: 2rem 3% 1rem 4%;
-  .ion-social-github{
+  .ion-social-github {
     width: 20%;
     display: flex;
   }
