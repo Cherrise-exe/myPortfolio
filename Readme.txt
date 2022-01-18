@@ -1,4 +1,4 @@
-This is the github repository for my digital portfolio!
+This is the github repository for my first digital portfolio!
 
 
 Thanks for downloading this theme!
