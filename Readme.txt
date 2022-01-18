@@ -1,3 +1,6 @@
+This is the github repository for my digital portfolio!
+
+
 Thanks for downloading this theme!
 
 Theme Name: DevFolio

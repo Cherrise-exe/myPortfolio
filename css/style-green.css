@@ -38,6 +38,43 @@ a:hover {
   transition: all 0.5s ease-in-out;
 }
 
+.main h2{
+  color: white;
+  margin-left: 45px;
+}
+.main h3{
+  color: white;
+  text-align: center;
+}
+
+.main p{
+  margin-left: 45px;
+}
+.main article {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  
+}
+
+.main button{
+  background-color: transparent;
+  border: none;
+}
+
+.main a{
+   color: #24b67e;
+}
+
+.main a:hover {
+  color: white;
+  text-decoration: none;
+  transition: all 0.5s ease-in-out;
+  text-decoration: underline;
+}
+
+ul{
+  list-style-type: none;
+}
 .p-r {
   position: relative;
 }
